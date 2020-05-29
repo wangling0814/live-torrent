@@ -11,7 +11,7 @@
           <a href="https://github.com/Davenchy/live-torrent">here</a>.
         </p>
         <p></p>
-        <p>My twitter user: @fadi_davenchy.</p>
+        <p>  twitter : @fadi_davenchy </p>
         <p>
           Backend is based on
           <a href="https://webtorrent.io">webtorrent</a> project.
